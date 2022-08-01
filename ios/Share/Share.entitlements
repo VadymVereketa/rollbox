@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>com.apple.security.application-groups</key>
+	<array>
+		<string>group.com.huspi.rolbox</string>
+	</array>
+	<key>keychain-access-groups</key>
+	<array>
+		<string>$(AppIdentifierPrefix)E2J8W9HEEC.com.huspi.rolbox</string>
+		<string>$(AppIdentifierPrefix)com.huspi.rolbox</string>
+		<string>$(AppIdentifierPrefix)com.huspi.rolbox.Share</string>
+		<string>$(AppIdentifierPrefix)E2J8W9HEEC.com.huspi.rolbox.Share</string>
+	</array>
+</dict>
+</plist>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>40731907396-p01u707a48427k03qhl76lekmkabcqpm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.40731907396-p01u707a48427k03qhl76lekmkabcqpm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>40731907396-58gls5eeb6nqp2mg14r1t5thciv8q0b4.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB2NQwV8M8XmVeh2JWQyQ9hiP02-Q-4at8</string>
+	<key>GCM_SENDER_ID</key>
+	<string>40731907396</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.huspi.rolbox</string>
+	<key>PROJECT_ID</key>
+	<string>huspi-rol-box</string>
+	<key>STORAGE_BUCKET</key>
+	<string>huspi-rol-box.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:40731907396:ios:4038461de7ec0b15d77311</string>
+	<key>ADMOB_APP_ID</key>
+	<string>ca-app-pub-2960614240062252~9062150305</string>
+</dict>
+</plist>
